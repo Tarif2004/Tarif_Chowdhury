@@ -1,144 +1,164 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Tarif%20Chowdhury&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20%7C%20Python%20%7C%20AI%20%7C%20IoT&descAlignY=58&descSize=20"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;AI+%26+API+Explorer+%F0%9F%A4%96;IoT+%26+ESP32+Enthusiast+%F0%9F%94%8C;ECE+Student+%F0%9F%8E%93;Building+Ideas+Into+Reality+%E2%9A%A1"/>
+<!--                         HERO SECTION                            -->
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Tarif%20Chowdhury&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN%20%7C%20Python%20%7C%20AI%20%7C%20IoT&descAlignY=58&descSize=20" width="100%"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%9A%80;Python+Developer+%F0%9F%90%8D;AI+%26+API+Explorer+%F0%9F%A4%96;IoT+%26+ESP32+Enthusiast+%F0%9F%94%8C;Electronics+%26+Communication+Engineering+Student+%F0%9F%8E%93;Turning+Ideas+Into+Working+Projects+%E2%9A%A1" />
+
+<br/><br/>
+
 <a href="https://github.com/Tarif2004">
-<img src="https://img.shields.io/badge/GitHub-Tarif2004-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Tarif2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Tarif2004?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-Explore-36BCF7?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Tarif2004&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Tarif2004&label=PROFILE+VIEWS&style=for-the-badge&color=7C3AED"/>
 
 <br/><br/>
 
-<a href="#-about-me">ABOUT</a> • <a href="#-tech-stack">STACK</a> • <a href="#-featured-projects">PROJECTS</a> • <a href="#-github-analytics">STATS</a> • <a href="#-connect-with-me">CONTACT</a>
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/ABOUT-0F172A?style=flat-square"/>
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/STACK-1E293B?style=flat-square"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/PROJECTS-334155?style=flat-square"/>
+</a>
+
+<a href="#-github-analytics">
+<img src="https://img.shields.io/badge/STATS-475569?style=flat-square"/>
+</a>
+
+<a href="#-connect-with-me">
+<img src="https://img.shields.io/badge/CONTACT-64748B?style=flat-square"/>
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-<table>
-<tr>
+<div align="center">
 
-<td width="55%" valign="top">
+### Hey! I'm Tarif 👋
 
-## Hey, I'm Tarif! 👨‍💻
+> **Developer • Builder • Learner • Problem Solver**
 
-I'm an **Electronics & Communication Engineering student** and developer passionate about creating practical software and hardware projects.
+</div>
 
-My main development areas are:
+I'm an **Electronics & Communication Engineering student and developer** interested in creating practical applications that combine **software, AI, databases, and hardware**.
 
-🌐 **Full-Stack Web Development**
-
-⚛️ **MERN Stack**
-
-🐍 **Python Development**
-
-🤖 **AI & API Integration**
-
-🔌 **IoT & Embedded Systems**
-
-🗄️ **Database Development**
-
-⚡ **Performance-focused Applications**
+My development journey includes **MERN Stack development, Python development, REST APIs, AI integrations, database applications, and ESP32/Arduino-based IoT projects**.
 
 I enjoy taking an idea from:
 
-**💡 Idea → 🧠 Logic → 💻 Code → 🧪 Testing → 🚀 Project**
-
-</td>
-
-<td width="45%" valign="top">
-
-### ⚡ Developer Profile
-
-```yaml
-name: Tarif Chowdhury
-github: Tarif2004
-
-education:
-  field: Electronics & Communication Engineering
-
-development:
-  - MERN Stack
-  - Python
-  - REST APIs
-  - AI Integration
-  - IoT
-
-databases:
-  - MongoDB
-  - MySQL
-
-frontend:
-  - React
-  - JavaScript
-  - Tailwind CSS
-  - Bootstrap
-
-backend:
-  - Node.js
-  - Express.js
-
-currently:
-  - Advanced MERN
-  - Python
-  - AI
-  - Cloud
-  - System Design
-
-motto: "Build. Learn. Improve. 🚀"
+```text
+💡 IDEA
+   ↓
+🧠 LEARN
+   ↓
+💻 CODE
+   ↓
+🧪 TEST
+   ↓
+🐛 DEBUG
+   ↓
+🚀 BUILD
+   ↓
+🔁 IMPROVE
 ```
 
-</td>
+### ⚡ Quick Profile
 
-</tr>
-</table>
+```text
+👨‍💻 Role              → Full Stack Developer
+🎓 Background          → Electronics & Communication Engineering
+🌐 Primary Stack       → MERN
+🐍 Programming         → JavaScript + Python
+🗄️ Databases           → MongoDB + MySQL
+🤖 Exploring           → AI + APIs
+🔌 Hardware            → ESP32 + Arduino
+🎨 UI                  → Tailwind CSS + Bootstrap
+⚡ Mindset             → Build → Break → Learn → Improve
+```
 
 ---
 
-# 🧭 Explore My Profile
+# 🧭 Explore
 
 <div align="center">
 
-|      🧑‍💻 About      |        🛠️ Skills       |           🚀 Projects          |          📊 Analytics         |          🎯 Goals          |
-| :-------------------: | :---------------------: | :----------------------------: | :---------------------------: | :------------------------: |
-| [Explore](#-about-me) | [Explore](#-tech-stack) | [Explore](#-featured-projects) | [Explore](#-github-analytics) | [Explore](#-current-focus) |
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/👨‍💻_ABOUT-0F172A?style=for-the-badge"/>
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/🧰_STACK-1E293B?style=for-the-badge"/>
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/🚀_PROJECTS-334155?style=for-the-badge"/>
+</a>
+
+<a href="#-github-analytics">
+<img src="https://img.shields.io/badge/📊_STATS-475569?style=for-the-badge"/>
+</a>
+
+<a href="#-current-focus">
+<img src="https://img.shields.io/badge/🎯_FOCUS-64748B?style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack
+# 🧰 Tech Stack
 
 <div align="center">
 
-## 💻 Programming
+## 💻 Languages
+
+<br/>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
 </a>
 
 <a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
 </a>
 
 <a href="https://isocpp.org/">
-<img src="https://skillicons.dev/icons?i=cpp" height="55"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
 </a>
 
 <br/><br/>
 
-## 🌐 Frontend
+## ⚛️ Frontend
 
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 
@@ -156,7 +176,7 @@ motto: "Build. Learn. Improve. 🚀"
 
 <br/><br/>
 
-## 🔧 Development Tools
+## 🔧 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -172,56 +192,89 @@ motto: "Build. Learn. Improve. 🚀"
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+### Things I've Built & Experimented With
+
+</div>
+
+---
+
 ## 🍔 TastyBites 90
 
 <div align="center">
 
-### `MERN Restaurant Management System`
-
-<a href="https://github.com/Tarif2004">
-<img src="https://img.shields.io/badge/💻_GitHub-Tarif2004-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/MERN-STACK-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TAILWIND-CSS-0F766E?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-DATABASE-166534?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 </div>
 
+> ### A full-stack restaurant management system with a nostalgic 90's diner experience.
+
+**TastyBites 90** is one of my major MERN projects, combining a vintage UI with a complete restaurant workflow.
+
+### ✨ Core Features
+
+`🔐 Authentication` · `🍔 Menu` · `🛒 Cart` · `💳 Checkout` · `📦 Orders` · `👨‍💼 Admin`
+
 <details>
-<summary><b>🔍 Click to explore TastyBites 90</b></summary>
+<summary><b>🔎 Explore TastyBites 90</b></summary>
 
 <br/>
 
-A full-stack restaurant management system built around a nostalgic **90's diner concept**.
+### Frontend
 
-### ✨ Features
+`React.js` · `Vite` · `Tailwind CSS`
+
+### Backend
+
+`Node.js` · `Express.js` · `REST API`
+
+### Database
+
+`MongoDB` · `MongoDB Atlas`
+
+### Authentication
+
+`JWT` · Protected Routes · User Authentication
+
+### Application Flow
 
 ```text
-🔐 Authentication
-├── User Registration
-├── Login
-└── JWT Authentication
-
-🍔 Restaurant
-├── Menu
-├── Categories
-└── Food Items
-
-🛒 Shopping
-├── Cart
-├── Checkout
-└── Order Creation
-
-📦 Orders
-├── My Orders
-└── Order Details
-
-👨‍💼 Administration
-└── Admin Dashboard
+                    TastyBites 90
+                          │
+             ┌────────────┴────────────┐
+             │                         │
+          CUSTOMER                   ADMIN
+             │                         │
+       ┌─────┴─────┐              ┌────┴────┐
+       │           │              │         │
+     MENU        ACCOUNT       DASHBOARD   CRUD
+       │           │              │         │
+       └─────┬─────┘              └────┬────┘
+             │                         │
+             ▼                         ▼
+           CART                    DATABASE
+             │
+             ▼
+         CHECKOUT
+             │
+             ▼
+          ORDERS
 ```
 
-### 🧰 Technology
-
-`React` `Vite` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `JWT`
-
 </details>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Tarif2004">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -229,35 +282,58 @@ A full-stack restaurant management system built around a nostalgic **90's diner 
 
 <div align="center">
 
-### `Python + AI + API Integration`
-
-<a href="https://github.com/Tarif2004">
-<img src="https://img.shields.io/badge/💻_GitHub-Tarif2004-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API-INTEGRATION-2563EB?style=for-the-badge"/>
 
 </div>
 
+> ### A Python-based AI assistant exploring conversational AI, APIs and automation.
+
+The project focuses on connecting Python applications with AI services to create an intelligent assistant experience.
+
+### 🧠 Core Concepts
+
+`🐍 Python` · `🤖 AI` · `🔌 APIs` · `⚙️ Automation`
+
 <details>
-<summary><b>🧠 Click to explore Jarvis</b></summary>
+<summary><b>🔎 Explore Jarvis</b></summary>
 
 <br/>
 
-A Python-based AI assistant project exploring conversational AI, API integration and automation.
+```text
+             USER
+               │
+               ▼
+        ┌──────────────┐
+        │    JARVIS    │
+        │    PYTHON    │
+        └──────┬───────┘
+               │
+       ┌───────┼────────┐
+       ▼       ▼        ▼
+      AI      API    AUTOMATION
+       │       │        │
+       └───────┼────────┘
+               ▼
+            RESPONSE
+```
 
-### 🔥 Concepts
+### Technologies
 
-* 🧠 AI integration
-* 🤖 Conversational interaction
-* 🔌 API integration
-* 🐍 Python
-* ⚙️ Automation
-* 🌐 REST APIs
-
-### Stack
-
-`Python` `OpenRouter` `AI APIs` `REST APIs`
+`Python` · `OpenRouter` · `AI APIs` · `REST APIs`
 
 </details>
+
+<br/>
+
+<div align="center">
+
+<a href="https://github.com/Tarif2004">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
@@ -265,43 +341,59 @@ A Python-based AI assistant project exploring conversational AI, API integration
 
 <div align="center">
 
-### `ESP32 + IoT + Embedded Systems`
-
-<a href="https://github.com/Tarif2004">
-<img src="https://img.shields.io/badge/💻_GitHub-Tarif2004-181717?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://img.shields.io/badge/ESP32-IOT-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARDUINO-EMBEDDED-15803D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/SENSORS-HARDWARE-475569?style=for-the-badge"/>
 
 </div>
 
+> ### An IoT-based smart water purification system combining electronics and software.
+
+This project combines my **ECE background with programming**, using an ESP32 to control and monitor a water purification system.
+
+### 🔌 System Architecture
+
+```text
+                         📱 PHONE
+                            │
+                            ▼
+                       📡 ESP32
+                            │
+               ┌────────────┴────────────┐
+               │                         │
+               ▼                         ▼
+           💧 PUMP                  🔌 SOLENOID
+               │                         │
+               └────────────┬────────────┘
+                            │
+                            ▼
+                      💧 WATER SYSTEM
+                            │
+                            ▼
+                       🌡️ SENSOR
+                            │
+                            ▼
+                      📊 MONITORING
+```
+
+### ⚡ Hardware
+
+`ESP32` · `DS18B20` · `12V Pump` · `Solenoid Valve` · `MOSFET` · `LCD`
+
 <details>
-<summary><b>🔌 Click to explore the IoT system</b></summary>
+<summary><b>🔎 Explore Project</b></summary>
 
 <br/>
 
-A smart water purification system combining electronics, embedded programming and software control.
+### Main Concepts
 
-```text
-                  📱 PHONE
-                     │
-                     ▼
-                 📡 ESP32
-                     │
-          ┌──────────┴──────────┐
-          ▼                     ▼
-       💧 PUMP              🔌 VALVE
-          │                     │
-          └──────────┬──────────┘
-                     ▼
-              💧 WATER SYSTEM
-                     │
-                     ▼
-              🌡️ TEMPERATURE
-                  SENSOR
-```
-
-### Hardware
-
-`ESP32` `DS18B20` `12V Pump` `Solenoid Valve` `MOSFET` `LCD`
+* 📡 ESP32 connectivity
+* 📱 Phone-based control
+* 💧 Pump control
+* 🔌 Solenoid control
+* 🌡️ Temperature monitoring
+* ⚡ MOSFET switching
+* 🔧 Sensor integration
 
 </details>
 
@@ -309,37 +401,45 @@ A smart water purification system combining electronics, embedded programming an
 
 ## 📊 GPA / CGPA Calculator
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</div>
+
+> ### A lightweight academic web application for GPA and CGPA calculations.
+
+### ✨ Features
+
+`📚 Semester Calculation` · `🧮 GPA` · `📈 CGPA` · `📱 Responsive UI`
+
 <details>
-<summary><b>🧮 Click to explore</b></summary>
+<summary><b>🔎 Explore Calculator</b></summary>
 
 <br/>
 
-A lightweight academic web application for GPA and CGPA calculations.
+Built as a practical student-focused web application for simplifying academic calculations.
 
-### Features
-
-* 📚 Semester-wise calculations
-* 🧮 Automatic GPA calculation
-* 📈 CGPA calculation
-* 📱 Responsive interface
-* ⚡ Lightweight implementation
-
-### Technology
-
-`HTML` `CSS` `JavaScript`
+**Technology:** `HTML` `CSS` `JavaScript`
 
 </details>
 
 ---
 
-# 🔬 Other Projects
+# 🔬 More Projects
 
 <details>
 <summary><b>🌐 Student Portal</b></summary>
 
+<br/>
+
 A web-based student portal exploring frontend development, authentication and database interaction.
 
-**Stack:** `HTML` `CSS` `JavaScript` `Bootstrap` `PHP` `MySQL`
+**Technology**
+
+`HTML` · `CSS` · `JavaScript` · `Bootstrap` · `PHP` · `MySQL`
 
 </details>
 
@@ -348,9 +448,13 @@ A web-based student portal exploring frontend development, authentication and da
 <details>
 <summary><b>📡 Arduino Radar System</b></summary>
 
-An ultrasonic radar-style scanning system using:
+<br/>
 
-`Arduino` + `HC-SR04` + `Servo Motor`
+An ultrasonic radar-style scanning system using a servo motor and HC-SR04 sensor.
+
+**Technology**
+
+`Arduino` · `HC-SR04` · `Servo Motor` · `C/C++`
 
 </details>
 
@@ -359,35 +463,43 @@ An ultrasonic radar-style scanning system using:
 <details>
 <summary><b>🔤 ESP32 Morse Code</b></summary>
 
-An ESP32 project exploring embedded communication and Morse code generation.
+<br/>
 
-**Stack:** `ESP32` `C/C++`
+An ESP32-based embedded project exploring Morse code generation and wireless/embedded concepts.
+
+**Technology**
+
+`ESP32` · `C/C++`
 
 </details>
 
 ---
 
-# 🧠 My Development Areas
+# 🧠 What I Build
 
 <div align="center">
 
 ```text
-                     TARIF2004
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-     WEB DEV            AI             HARDWARE
-        │                │                │
-   ┌────┴────┐       ┌───┴───┐       ┌───┴────┐
-   ▼         ▼       ▼       ▼       ▼        ▼
- React    Node.js  Python   APIs   ESP32   Arduino
-   │         │       │       │       │        │
-   └────┬────┘       └───┬───┘       └───┬────┘
-        │                │               │
-        └────────────────┼───────────────┘
-                         ▼
-                  🚀 REAL PROJECTS
+              ┌───────────────────┐
+              │       TARIF       │
+              │      2004 🚀      │
+              └─────────┬─────────┘
+                        │
+        ┌───────────────┼───────────────┐
+        │               │               │
+        ▼               ▼               ▼
+    🌐 WEB            🤖 AI           🔌 IoT
+        │               │               │
+        ▼               ▼               ▼
+     React           Python          ESP32
+     Node.js         APIs            Arduino
+     Express         AI Apps         Sensors
+     MongoDB         Automation      Embedded
+        │               │               │
+        └───────────────┼───────────────┘
+                        │
+                        ▼
+                 🚀 REAL PROJECTS
 ```
 
 </div>
@@ -398,23 +510,33 @@ An ESP32 project exploring embedded communication and Morse code generation.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Tarif2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarif2004&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"/>
-
-</div>
+### 📈 GitHub Overview
 
 <br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Tarif2004&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" />
 
-<img src="https://streak-stats.demolab.com?user=Tarif2004&theme=tokyonight&hide_border=true"/>
+<br/><br/>
+
+### 💻 Most Used Languages
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarif2004&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+
+<br/><br/>
+
+### 🔥 Contribution Streak
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Tarif2004&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -438,79 +560,160 @@ An ESP32 project exploring embedded communication and Morse code generation.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Tarif2004/Tarif2004/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Tarif2004/Tarif2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
+
+<details>
+<summary><b>🐍 How the contribution snake works</b></summary>
+
+<br/>
+
+The snake animation visualizes GitHub contribution activity.
+
+To enable it, create a GitHub Actions workflow that generates:
+
+```text
+github-contribution-grid-snake.svg
+```
+
+inside the `output` branch of your profile repository.
+
+</details>
 
 ---
 
 # 🎯 Current Focus
 
+<div align="center">
+
+### 🚀 What I'm Working Toward
+
+<br/>
+
+<img src="https://img.shields.io/badge/MERN-Advanced-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Applications-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System-Design-334155?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Learning-2563EB?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
 <details open>
-<summary><b>🚀 What I'm focusing on right now</b></summary>
+<summary><b>🛠️ Development Roadmap</b></summary>
 
 <br/>
 
 ```text
-████████████████████████████████████████  MERN
-██████████████████████████████████████░░  Python
-████████████████████████████████████░░░░  REST APIs
-██████████████████████████████████░░░░░░  MongoDB
-████████████████████████████████░░░░░░░░  AI
-██████████████████████████████░░░░░░░░░░  IoT
-████████████████████████████░░░░░░░░░░░░  Cloud
+                         🚀
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │   MERN STACK  │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ ADVANCED API  │
+                 │   DEVELOPMENT │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ SYSTEM DESIGN │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ AI APPLICATION │
+                 └───────┬───────┘
+                         │
+                         ▼
+                 ┌───────────────┐
+                 │ CLOUD / DEVOPS│
+                 └───────┬───────┘
+                         │
+                         ▼
+                    💻 BUILD
 ```
 
 </details>
 
 ---
 
-# 📚 Learning Roadmap
+# 🧠 Currently Learning
 
 <div align="center">
 
-```text
-                 ┌─────────────────┐
-                 │    MERN STACK   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ ADVANCED BACKEND│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │  SYSTEM DESIGN  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ AI APPLICATIONS │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ CLOUD / DEVOPS  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                   🚀 PRODUCTION
-                      READY
-```
+`Advanced React`
+
+`Node.js`
+
+`Express.js`
+
+`MongoDB`
+
+`Python`
+
+`AI Integration`
+
+`REST APIs`
+
+`System Design`
+
+`Cloud`
+
+`Deployment`
 
 </div>
 
 ---
 
-# ⚡ Developer Philosophy
+# ⚡ My Development Loop
 
 <div align="center">
 
-|      💡      |       🛠️      |       🐛      |        🔧       |       🚀       |
-| :----------: | :------------: | :-----------: | :-------------: | :------------: |
-|   **Learn**  |    **Build**   |   **Break**   |     **Fix**     |    **Ship**    |
-| Learn deeply | Build projects | Find problems | Understand them | Make it useful |
+### 💡 IDEA
+
+↓
+
+### 🧠 LEARN
+
+↓
+
+### 🛠️ BUILD
+
+↓
+
+### 🐛 BREAK
+
+↓
+
+### 🔧 DEBUG
+
+↓
+
+### 🚀 SHIP
+
+↓
+
+### 🔁 REPEAT
+
+<br/>
+
+> **Every project is another step forward.**
+
+</div>
+
+---
+
+# 💭 Developer Mindset
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Don't+just+learn+technology...+build+with+it.;Don't+just+write+code...+understand+it.;Don't+just+finish+projects...+improve+them.;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80"/>
 
 </div>
 
@@ -520,17 +723,41 @@ An ESP32 project exploring embedded communication and Morse code generation.
 
 <div align="center">
 
+### Let's Build Something Interesting 🚀
+
+<br/>
+
 <a href="https://github.com/Tarif2004">
-<img src="https://img.shields.io/badge/GitHub-Tarif2004-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Tarif2004-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+ 
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+ 
+
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20To-Collaboration-22C55E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Open%20Source-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Interesting%20Projects-F59E0B?style=for-the-badge"/>
+
+</div>
+
+---
+
+# ☕ Random Developer Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </div>
 
@@ -538,14 +765,14 @@ An ESP32 project exploring embedded communication and Morse code generation.
 
 <div align="center">
 
-### 💻 Code → 🧠 Learn → 🛠️ Build → 🚀 Ship → 🔁 Repeat
+## 💻 Code → 🧠 Learn → 🛠️ Build → 🚀 Ship → 🔁 Repeat
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Feel+free+to+explore+my+repositories+%F0%9F%9A%80;Let's+build+something+awesome!+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Explore+my+repositories+%F0%9F%9A%80;Star+anything+you+find+useful+%E2%AD%90;Let's+build+something+awesome!+%F0%9F%94%A5"/>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
